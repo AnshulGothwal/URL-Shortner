@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {
+      "id": "",
+      "originalUrl": ""
+    },
+    {
+      "shortCode": "sbm40k",
+      "originalUrl": "file:///C:/Users/ASUS/OneDrive/Documents/Desktop/Projects/URLshortner/index.html",
+      "id": "zbLfaV4prY8"
+    },
+    {
+      "shortCode": "bnmjko",
+      "originalUrl": "file:///C:/Users/ASUS/OneDrive/Documents/Desktop/Projects/URLshortner/index.html",
+      "id": "vFtySTI6gtw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
