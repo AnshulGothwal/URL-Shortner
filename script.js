@@ -35,7 +35,7 @@ button.addEventListener("click", async () => {
 
             input.value = "";
 
-            alert("Short URL Generated Successfully ❤️");
+            // alert("Short URL Generated Successfully ❤️");
 
         } else {
 
@@ -63,5 +63,5 @@ copyBtn.addEventListener("click", async () => {
 
     await navigator.clipboard.writeText(text);
 
-    alert("Copied ❤️");
+    // alert("Copied ❤️");
 });
